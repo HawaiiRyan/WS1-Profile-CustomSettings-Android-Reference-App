@@ -41,14 +41,23 @@ https://developer.android.com/reference/android/content/RestrictionsManager.html
 
 ## OUTPUTS
 I/System.out: Here is the Environment: PROD
+
 I/System.out: Here is the URL: https://www.vmware.com
+
 I/System.out: Here is the Example Value: ExampleValue
+
 I/System.out: Here is the Serial Number: {FA7280304391}
+
 I/System.out: Here is the User: {Maui}
+
 I/EUCPSO: Here is the Environment: PROD
+
 I/EUCPSO: Here is the URL: https://www.vmware.com
+
 I/EUCPSO: Here is the Example Value: ExampleValue
+
 I/EUCPSO: Here is the Serial Number: {FA7280304391}
+
 I/EUCPSO: Here is the User: {Maui}
 
 ---
