@@ -10,15 +10,19 @@ This allows the use of key value pairs (KVP) in a custom settings profile payloa
 This sample application and Workspace ONE UEM MDM profile provides a working example of how to implement restrictions manager.
 KVP's can be defined in the MDM profile, and delivered to the application. Benefits to passing these values from a Workspace ONE UEM
 MDM profile include removing hardcoded values in applications. This allows reusing applications for multiple environments, use cases,
-scenarios, and needs. The ability to use 
+scenarios, and needs.
+
 In my experience, typical values passed include;  a URL, OAuth client ID, ADFS resource, OAuth authorization endpoint, 
 application environment, feature flags, device serial number, enrolled user (or checked out user, in shared device use case), etc.
 
 
 For additional information about Android Enterprise and Restrictions Manager,
 see the following URL's below;
+
 https://developer.android.com/work/managed-configurations
+
 http://android-doc.github.io/training/enterprise/app-restrictions.html
+
 https://developer.android.com/reference/android/content/RestrictionsManager.html
 
 ---
