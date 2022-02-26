@@ -1,9 +1,5 @@
 <resources>
-    <string name="app_name">VMware EUC Rocks</string>
-    <string name="appConfigSerial_num">Serial Number</string>
-    <string name="appConfigUrl">URL</string>
-    <string name="appConfigExampleValue">Example Value</string>
-    <string name="appConfigEnvironment">Environment</string>
+    <string name="app_name">VMware EUC Rocks!</string>
     <string name="appTitle">VMware EUC PSO AppConfig Reference Application</string>
 
 </resources>
